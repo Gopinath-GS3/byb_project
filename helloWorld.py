@@ -1,5 +1,5 @@
 # Pseudo code
-# Using '/n' in the print(), display the statement "Git is Awesome!" in new line.
+# Using '/n' in the print(), display the statement "“Git is Awesome!" in new line.
 
 
-print("\nGit is Awesome!")
+print("\n“Git is Awesome!")
